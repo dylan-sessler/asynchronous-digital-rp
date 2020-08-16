@@ -150,9 +150,10 @@ As a response to this, I can imagine PCs will start planning a bit more
 carefully before entering a combat, and it will be interesting to see how
 everyone reacts as the initial plan falls apart and chaos ensues! 
 **** Re-balancing Encounters 
-I think that overall, this type of a combat system makes the party weaker, and
+I think that overall, this type of a combat system makes the party less co-ordinated, and
 the DM should adjust for that. By not being able to co-ordinate as easily,
-players could be a lot weaker. Encounter design should take this into acount.
+collective player actions could be less combat effective. Encounter design should take this into acount.
+
 **** Considerations of DM Effort
 Overall, I think the net effect on DM effort / encounter is neutral. Once you
 get into the flow of making decisions quickly for your NPCs, it comes pretty
