@@ -1,0 +1,176 @@
+* Asynchronous Digital Roleplay Combat
+** Intro
+With the coronavirus pandemic, many role playing games have moved from dining
+room table tops to zoom conference rooms. While better than having to cancel the
+games for good, I have found the games to be less enjoyable then the
+in-person sessions for the following reasons:
+
+- The game feels Slower. While Roll20 can speed some parts of the game up
+  (rolling dice, doing math), I think in most cases turns take longer.
+- It's harder to multithread. Eg) It's harder to have engaging side-conversations
+  strategizing or talking about out of game related topics as there is no
+  proximity-based voice channelling.
+- Ultimately, this means it's easier to become disengaged. You're sitting on a computer staring at
+  pixels on a screen rather than people you are dynamically engaging with in
+  person.
+
+Spending time disengaged isn't what anyone is looking for in a game they are
+playing. I propose the following adjustments to speed up combat and keep levels
+of engagement high!
+
+** The System
+*** The Turn Cadence
+1. Type Action
+2. Reveal
+3. Resolve
+**** Type Action
+During the *Type Action* phase, the DM will start a timer (typically 30-45
+seconds), and the players will all type out their desired actions including all
+relevant decisions (target, flourishes, etc). If a player finishes typing early,
+they will wait until the DM calls out for players to *Reveal* their typed
+actions, typically with a countdown (3, 2, 1, submit!). 
+
+I would highly suggest that the *Type Action* phase be silent, with players
+unable to reveal information about their intentions for the round. This will be
+a debuff for overall party effectiveness, but will speed things up considerably
+and prevent /louder/ players from controlling the actions of multiple players,
+thus improving engagement for everyone.
+
+During this time, the DM will also be making action decisions for NPCs / enemy
+combattants. This can be a bit overwhelming at first, but using a table with
+headings of | NPC | Action | Target | on a piece of paper this is pretty easy to
+manage once you get into a rhythm.
+**** Reveal
+During the *Reveal* phase, all players will submit their typed actions for the
+DM to *Resolve*. 
+
+If there are players who are still just finishing up their
+typed actions, I would suggest letting them finish in the next few seconds. They
+should not be using the inputs from the other players to influence their actions.
+**** Resolve
+During the *Resolve* phase, the DM and the players will narrate the effects of
+the actoins described in the *Type Action* phase. I would suggest using the
+following processing cadence to keep things organized in the chaos.
+1. Start with the first submitted (chronologically) *Typed Action* by the
+   players. The DM will call that player out to narrate what they did and make
+   any dice rolls. This gives the players a chance to engage more and add extra
+   flourish to their actions while also giving the DM time to process what is
+   occurring and make any accounting for damage, statuses, etc. necessary. 
+   1. Sometimes it makes sense to start out with the NPCs or the enemies. Feel
+      free to switch it up here! Battle is chaotic.  
+   2. Dice rolls also can be made as part of *Type Action* phase if players are
+      really on top of their stuff! 
+2. Repeat the above for each of the following *Typed Actions* until all the
+   players or finished. 
+3. The DM will then narrate and roll dice for the *Typed Actions* for each of the NPCs
+   1. Once again, feel free to mix this up! There's no initiative order, so feel
+      free to sprinkle in some of the NPC actions in the middle of the PC
+      actions. It'll help make it so it's not just chunk of NPC actions at the
+      end and will make the battle feel more chaotic and less predictable!
+   2. Don't try to roll dice for each of the NPCs before-hand. That would be a
+      lot to process/record!
+   3. No need to share your decision table with the PCs. Similar to dice rolls,
+      stick to what actually occurred most of the time, but don't be afraid to
+      fudge every once in a while to make a better story! The DM Screen is your
+      friend :)
+*** Additional Considerations
+**** Anatomy of a Typed Action
+What is exactly typed out in a *Typed Action* will vary system to system and
+player to player. The ideal, is that in a short amount of time, that a player is
+able to lock in all the major decision points of their upcoming action so that
+when it becomes the player's spotlight to take their action they can execute
+their action quickly and without influence from other actions that should really
+be occurring simultaneously. Here's a generic structure:
+
+~ACTION : TARGET (OPTIONAL) : FLOURISH~
+
+***** Example Typed Action
+Attack twice with grate axe, cast action surge, Attack twice with grate axe
+again : Closest Troll, then next closest troll if that troll dies : Approaching
+from the rear while the troll is distracted, I jump on the back of the troll with my legs around it's torso
+and start hacking at it's neck. 
+
+***** Action
+What you're going to be doing this round. In DnD 5e, this means all of your
+actions, bonus actions, ready actions, etc.
+***** Target
+Who you're going to be targeting (if applicable) and any targeting conditionals
+you want to take into account
+***** Flourish
+Add some spice to your actions! 
+
+I would encourage DMs to make DCs for skill checks/attacks lower
+for really good flourishes that should be helpful and make it harder for those
+that are entertaining but well... not helpful. This encourages players to keep contributing
+more to the narrative and makes your job as entertainer easier!
+ 
+**** In-Combat Communication
+In synchronous combat systems, in-combat communication is typically super meta,
+leads to /louder/ players controlling other players' actions, and in general
+just slows everything down. Besides being incredibly unrealistic, it's just not
+very fun in my opinion.
+
+In Async combat, during the Typed Action phase no talking should be
+permitted. This ensures that /louder/ players aren't over-extending themselves
+and puts everyone on the spot to make their own strong character choices and
+decisions. This speeds things up and makes the experience more engaging for
+everyone.
+
+However, there is a place for planning in combat. We see it in Lord Of The Rings
+epic battle scenes where the plan for taking down the enemy general is
+formulated while hacking through hoardes of orcs. This cool and sexy and there
+should be a place for it in this system.
+
+I think the best place for in-combat communication is in the *Flourish* part of
+the typed action and should be communicate /in character/ during the player
+narration part of the *Resolve* phase. This creates some really interesting dynamics that I believe
+will yield some really fun/satisfying situations. Combat rounds are only 6
+seconds, and you could imagine scenarios like this happening on the battlefield!
+- PC A communicates a plan, PC B follows the plan on the next round. This is the
+  vanilla case, but will still feel extra satisfying when it does work and has
+  the added perk of being guaranteed not cause a time-wasting for the rest of
+  the party distraction as there is no mechanism for a 5 minute debate in a 6
+  second round of combat! 
+- PC A communicates a plan to PC B, PC B does not follow the plan next
+  round. This is where things get spicy. Maybe PC B doesn't think that's the
+  best course of action, maybe the situation changes enough after PC A's command
+  that PC B no longer has faith in it. This better simulates the fact that these
+  commands are occurring in combat and there's not really time between the 6
+  second command and the next six seconds to communicate whether PC B will
+  follow or not!  
+- PC A communicates a plan to PC B, PC B communicates a different, contradictory
+  plan to PC A. This just sounds like a hilarious moment waiting to happen.
+
+Now imagine the situations that can occur with 3, 6, or even 8 PCs trying to
+work together in the chaos of battle! I think this is a SUPER spicy mechanic and
+will add a lot of flavor and unpredictability to combat, which I think is a
+really good thing for keeping people engaged. 
+
+As a response to this, I can imagine PCs will start planning a bit more
+carefully before entering a combat, and it will be interesting to see how
+everyone reacts as the initial plan falls apart and chaos ensues! 
+**** Re-balancing Encounters 
+I think that overall, this type of a combat system makes the party weaker, and
+the DM should adjust for that. By not being able to co-ordinate as easily,
+players could be a lot weaker. Encounter design should take this into acount.
+**** Considerations of DM Effort
+Overall, I think the net effect on DM effort / encounter is neutral. Once you
+get into the flow of making decisions quickly for your NPCs, it comes pretty
+natural and you have plenty of time to roll dice and narrate during the
+*Resolve* phase. 
+
+Where I think this could have a considerable impact on DM effort is that I think
+you can get through a lot more combat encounters per session, which I think is a
+good thing. In general, I think a lot more time is spent on combat encounters
+than players really want in a session, and making those encounters much quicker
+leaves more room for RP/narrative based play.
+
+I think overall if the speed of encounters improves a lot and you don't want to
+prep more content then players overall would be happy to have shorter, more
+engaging, and more action-dense sessions. 
+
+
+** TODO An Example
+*** TODO Record a session DM'ing in this style 
+*** TODO Provide commentary on recorded session
+
