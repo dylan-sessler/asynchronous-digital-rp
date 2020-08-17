@@ -110,7 +110,7 @@ leads to /louder/ players controlling other players' actions, and in general
 just slows everything down. Besides being incredibly unrealistic, it's just not
 very fun in my opinion.
 
-In Async combat, during the Typed Action phase no talking should be
+In Async combat, during the *Typed Action* phase no talking should be
 permitted. This ensures that /louder/ players aren't over-extending themselves
 and puts everyone on the spot to make their own strong character choices and
 decisions. This speeds things up and makes the experience more engaging for
@@ -118,7 +118,7 @@ everyone.
 
 However, there is a place for planning in combat. We see it in Lord Of The Rings
 epic battle scenes where the plan for taking down the enemy general is
-formulated while hacking through hoardes of orcs. This cool and sexy and there
+formulated while hacking through hoardes of orcs. This is cool and sexy and there
 should be a place for it in this system.
 
 I think the best place for in-combat communication is in the *Flourish* part of
