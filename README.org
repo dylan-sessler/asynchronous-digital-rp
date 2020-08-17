@@ -128,9 +128,8 @@ will yield some really fun/satisfying situations. Combat rounds are only 6
 seconds, and you could imagine scenarios like this happening on the battlefield!
 - PC A communicates a plan, PC B follows the plan on the next round. This is the
   vanilla case, but will still feel extra satisfying when it does work and has
-  the added perk of being guaranteed not cause a time-wasting for the rest of
-  the party distraction as there is no mechanism for a 5 minute debate in a 6
-  second round of combat! 
+  the added perk of being guaranteed to be resolved quickly. There should be no
+  mechanism for a 5 minute debate in a 6 second round of combat! 
 - PC A communicates a plan to PC B, PC B does not follow the plan next
   round. This is where things get spicy. Maybe PC B doesn't think that's the
   best course of action, maybe the situation changes enough after PC A's command
@@ -155,18 +154,13 @@ the DM should adjust for that. By not being able to co-ordinate as easily,
 collective player actions could be less combat effective. Encounter design should take this into acount.
 
 **** Considerations of DM Effort
-Overall, I think the net effect on DM effort / encounter is neutral. Once you
+Overall, I think the net effect on DM effort per encounter is neutral. Once you
 get into the flow of making decisions quickly for your NPCs, it comes pretty
 natural and you have plenty of time to roll dice and narrate during the
 *Resolve* phase. 
 
-Where I think this could have a considerable impact on DM effort is that I think
-you can get through a lot more combat encounters per session, which I think is a
-good thing. In general, I think a lot more time is spent on combat encounters
-than players really want in a session, and making those encounters much quicker
-leaves more room for RP/narrative based play.
-
-I think overall if the speed of encounters improves a lot and you don't want to
+Where I think this could have a considerable impact on DM effort is that
+you can get through a lot more combat encounters per session. If you don't want to
 prep more content then players overall would be happy to have shorter, more
 engaging, and more action-dense sessions. 
 
@@ -174,4 +168,13 @@ engaging, and more action-dense sessions.
 ** TODO An Example
 *** TODO Record a session DM'ing in this style 
 *** TODO Provide commentary on recorded session
+*** DONE Example NPC Action Tracking Table 
+    CLOSED: [2020-08-16 Sun 21:02]
 
+
+| NPC      | Action                     | Target |
+|----------+----------------------------+--------|
+| bug 1    | claw,claw,stinger          | joe    |
+| bug 2    | claw,claw,stinger          | joe    |
+| bug 3    | claw,claw,stinger          | moe    |
+| bug lord | greater invisibility, GTFO | -      |
