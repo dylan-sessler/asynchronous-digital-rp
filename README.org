@@ -49,7 +49,7 @@ typed actions, I would suggest letting them finish in the next few seconds. They
 should not be using the inputs from the other players to influence their actions.
 **** Resolve
 During the *Resolve* phase, the DM and the players will narrate the effects of
-the actoins described in the *Type Action* phase. I would suggest using the
+the actions described in the *Type Action* phase. I would suggest using the
 following processing cadence to keep things organized in the chaos.
 1. Start with the first submitted (chronologically) *Typed Action* by the
    players. The DM will call that player out to narrate what they did and make
